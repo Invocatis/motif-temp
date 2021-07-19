@@ -1,5 +1,7 @@
 # motif
 
+** Note this repo is currently frozen while we fix some issues with the repo **
+
 Recursive, data driven, pattern matching for Clojure
 
 ## Releases and dependency information
